@@ -6,7 +6,7 @@ email: Katherine@gmail.com
 header-color: "#333"
 description: ""
 keyword: ""
-url: "https://kathy147.github.io/"              # your host, for absolute URL
+url: "http://kathy.life/"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
