@@ -5,7 +5,7 @@ subtitle:   "发音 复数 介词"
 date:       2017-10-12
 author:     "Anar"
 header-img: "img/Namarie.jpg"
-header-color: "#037b82"
+header-color: ""
 tags:
     - 昆雅语
 ---
