@@ -25,3 +25,10 @@ Quenya has *long* and *short* vowels.
 
 ## Dipthongs
 **ai**,**au**,**eu**,**iu**,**oi** and **ui**
+
+## Consonants
+**C** is always prnounced **K**
+
+In the groups **hw,hy,hl,hr**, the letter **h** is not to be pronounced separately.
+
+At the begining of words(before a vowel), the letter **h** is to pronounced like English h, but in the middle of words, **h** is to be pronounced [x]. (**h** before **t** and the vowels **a,o,u** is pronounced [x] and **h** before the vowels **i** and **e** turns into a sound similar to German ich-Laut)
