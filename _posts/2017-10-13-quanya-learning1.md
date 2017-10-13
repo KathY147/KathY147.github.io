@@ -9,4 +9,7 @@ header-color: ""
 tags:
     - 昆雅语
 ---
+# 第一课 发音
+## Vowels
+Quenya vowels are pure. (don't blur it)
 
