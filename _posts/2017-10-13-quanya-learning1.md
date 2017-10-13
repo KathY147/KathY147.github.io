@@ -12,9 +12,10 @@ tags:
 # Lesson One Pronunciation and Accentuation
 ## Vowels
 
-a,e,i,o,u
+**a**,**e**,**i**,**o**,**u**
 
-á，é，í，ó，ú
+**á**，**é**，**í**，**ó**，**ú**
+
 
 Quenya vowels are pure. (don't blur it) In Quenya *all* vowels, in *all* positions, must be clearly and distictly pronounced.
 
@@ -23,4 +24,4 @@ Quenya has *long* and *short* vowels.
 **-a** and **-ë** need to be pronounced as a full vowel at the *end* of words
 
 ## Dipthongs
-ai,au,eu,iu,oi and ui
+**ai**,**au**,**eu**,**iu**,**oi** and **ui**
