@@ -9,7 +9,7 @@ header-color: ""
 tags:
     - 昆雅语
 ---
-# Lesson One Pronunciation and Accentuation
+# Lesson One： Pronunciation and Accentuation
 ## Vowels
 
 **a**,**e**,**i**,**o**,**u**
