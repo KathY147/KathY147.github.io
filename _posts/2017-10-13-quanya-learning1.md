@@ -11,5 +11,5 @@ tags:
 ---
 # 第一课 发音
 ## Vowels
-Quenya vowels are pure. (don't blur it)
+Quenya vowels are pure. (don't blur it) In Quenya *all* vowels, in *all* positions, must be clearly and distictly pronounced.
 
