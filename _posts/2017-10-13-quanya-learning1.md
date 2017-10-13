@@ -11,8 +11,10 @@ tags:
 ---
 # Lesson One Pronunciation and Accentuation
 ## Vowels
+
 a,e,i,o,u
 á，é，í，ó，ú
+
 Quenya vowels are pure. (don't blur it) In Quenya *all* vowels, in *all* positions, must be clearly and distictly pronounced.
 
 Quenya has *long* and *short* vowels.
