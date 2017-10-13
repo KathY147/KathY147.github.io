@@ -19,5 +19,5 @@ Quenya has *long* and *short* vowels.
 
 **-a** and **-ë** need to be pronounced as a full vowel at the *end* of words
 
-##Dipthongs
+## Dipthongs
 ai,au,eu,iu,oi and ui
